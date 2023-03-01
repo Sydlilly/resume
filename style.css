@@ -6,11 +6,13 @@ body { color:white;
 h1 { border-style: double; 
 	}
 
-h2 {font-family: cursive, "Lucida Handwriting";
+h1 {font-family: cursive, "Lucida Handwriting";
 	}
 
 h3 { text-decoration-line: underline; 
 	 background-color: mediumpurple
 	}		
 
-
+ul {list-style-position: inside;
+	list-style-image: url('sparkle.png');
+	}
